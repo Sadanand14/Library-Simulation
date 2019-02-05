@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1516725242 source:c:\users\dell\desktop\c++ codes\classes\book.cpp
+	"book.h"
+	<iostream>
+
+1516730800 c:\users\dell\desktop\c++ codes\classes\book.h
+	<iostream>
+
+1516732569 source:c:\users\dell\desktop\c++ codes\classes\library.cpp
+	"library.h"
+	"book.h"
+
+1516731018 c:\users\dell\desktop\c++ codes\classes\library.h
+	<iostream>
+	"book.h"
+
+1516732755 source:c:\users\dell\desktop\c++ codes\classes\oop.cpp
+	<iostream>
+	"library.h"
+	"book.h"
+	"human.h"
+
+1516732511 source:c:\users\dell\desktop\c++ codes\classes\human.cpp
+	"human.h"
+	"library.h"
+	"book.h"
+	<iostream>
+
+1516732056 c:\users\dell\desktop\c++ codes\classes\human.h
+	"library.h"
+	"book.h"
+	<iostream>
+
+1516725242 source:c:\users\dell\desktop\c++ codes\oop exercise\book.cpp
+	"book.h"
+	<iostream>
+
+1516730800 c:\users\dell\desktop\c++ codes\oop exercise\book.h
+	<iostream>
+
+1516732511 source:c:\users\dell\desktop\c++ codes\oop exercise\human.cpp
+	"human.h"
+	"library.h"
+	"book.h"
+	<iostream>
+
+1516732056 c:\users\dell\desktop\c++ codes\oop exercise\human.h
+	"library.h"
+	"book.h"
+	<iostream>
+
+1516731018 c:\users\dell\desktop\c++ codes\oop exercise\library.h
+	<iostream>
+	"book.h"
+
+1516732862 source:c:\users\dell\desktop\c++ codes\oop exercise\library.cpp
+	"library.h"
+	"book.h"
+
